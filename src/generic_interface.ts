@@ -22,7 +22,7 @@ const crush2: CrushInterface<string> = {
   husband: "Many More",
 };
 const crush3: CrushInterface<HusbandInterface<string, number>> = {
-  name: "Dani Danoels",
+  name: "Dani Daniels",
   husband: {
     name: "Jony Sins",
     salary: 99999,
